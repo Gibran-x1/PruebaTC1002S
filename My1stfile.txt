@@ -1,0 +1,19 @@
+Hola a todos
+Este arcivo lo cree en el repositorio remoto
+bla bla bla
+
+aqui va nuestro codigo
+
+a=4
+b=5
+
+x = 2*a - 7.3*b
+
+print("the value of x is", x)
+
+
+bla bla bla
+
+
+bla bla 
+
